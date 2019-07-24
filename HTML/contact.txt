@@ -1,0 +1,14 @@
+<html>
+<title>
+Contact
+</title>
+<body bgcolor="orange">
+<h1> **********************************************Contact Details*************************************</h1>
+<br>
+<p>
+Our friendly and knowledgeable customer service team is available to answer your questions. We require that you be 18 or older, in compliance with the Children’s Privacy Act.
+
+Call us Toll-Free: 1-855-874-0970 | Monday – Friday 8:30 a.m. – 5:00 p.m. Eastern Time
+</p>
+</body>
+</html>

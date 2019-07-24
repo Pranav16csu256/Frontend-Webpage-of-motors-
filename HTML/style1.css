@@ -1,0 +1,26 @@
+body{
+background-image: url("images3.jpg");
+}
+header{
+background-color:black;
+color:white;
+
+}
+article{
+background-color:pink;
+padding:50xp 50xp;
+}
+footer{
+height:800px;
+
+height:300px;
+width:100%;
+style:bold;
+}
+input[type=submit]{
+padding:10px 20px;
+color:red;
+}
+#r{
+background-color:#FF0000;
+}

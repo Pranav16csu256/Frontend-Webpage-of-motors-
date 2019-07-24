@@ -1,0 +1,20 @@
+body{
+background-image:url("yop.jpg");
+}
+p.error{
+background-image:url("yop3.jpg");
+background-color: #ffcc00;
+height:40px;
+padding-left:950px;
+padding-right:0px;
+}
+article{
+background-image:url("yop3.jpg");
+height:200px;
+background-color:pink;
+padding:50xp 50xp;
+}
+footer{
+background-color:#0033cc;
+padding:10xp 20xp;
+}
